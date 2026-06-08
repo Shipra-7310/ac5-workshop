@@ -1,5 +1,5 @@
 ---
-# .github/workflows/build_image.yml new changes
+# .github/workflows/build_image.yml
 name: Reusable build container workflow
 
 env:
